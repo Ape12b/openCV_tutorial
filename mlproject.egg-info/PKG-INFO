@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Apratim
+Author-email: apratim.bajpai@gmail.com
+Requires-Dist: pandas
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: ipykernel
